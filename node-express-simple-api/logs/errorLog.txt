@@ -1,0 +1,13 @@
+2024062024	06:34:25	5a61ead2-921e-4841-97b9-ace9f27b1d08	ReferenceError	setEmployees is not defined
+2024062024	10:06:49	0c1fec25-850f-4df9-b25c-7224dea6955e	ReferenceError	path is not defined
+2024062024	10:08:47	04311311-555a-4809-ba4c-a74b63c24ca8	Error	ENOENT: no such file or directory, stat '/Users/maartenvantwout/Desktop/learning/nodejs/10-tut/controllers/views/404.html'
+2024062024	10:10:15	c8b2cdce-6e43-48fd-96f7-2c8f9c45260b	Error	ENOENT: no such file or directory, stat '/Users/maartenvantwout/Desktop/learning/nodejs/10-tut/controllers/views/404.html'
+2024062024	10:10:15	5e8d3803-8525-4f44-9f9a-e6e383240d26	Error	ENOENT: no such file or directory, stat '/Users/maartenvantwout/Desktop/learning/nodejs/10-tut/controllers/views/404.html'
+2024062024	10:10:56	10a12201-c188-4a5e-9cad-8f95b2b29fed	Error	ENOENT: no such file or directory, stat '/Users/maartenvantwout/Desktop/learning/nodejs/10-tut/controllers/views/404.html'
+2024062024	10:11:37	aa253131-5ffa-44c1-bc2b-a3d22b5b5a2f	Error	ENOENT: no such file or directory, stat '/Users/maartenvantwout/Desktop/learning/nodejs/10-tut/controllers/views/404.html'
+2024062024	10:20:08	1ce4d40b-7116-4323-b8e0-641b0cfd8de7	Error	ENOENT: no such file or directory, stat '/Users/maartenvantwout/Desktop/learning/nodejs/10-tut/controllers/views/404.html'
+2024062024	10:20:12	27f2e6d4-9e0b-43d1-86f8-d79f96450adc	Error	ENOENT: no such file or directory, stat '/Users/maartenvantwout/Desktop/learning/nodejs/10-tut/controllers/views/404.html'
+2024062024	10:21:18	c0b61948-b1f2-4915-b51a-818aad423be5	Error	ENOENT: no such file or directory, stat '/Users/maartenvantwout/Desktop/learning/nodejs/10-tut/controllers/views/404.html'
+2024062024	01:32:13	f7f4360a-8c38-4990-a21b-9c23f205d51d	Error	ENOENT: no such file or directory, stat '/Users/maartenvantwout/Desktop/learning/nodejs/11-tut/controllers/views/404.html'
+2024062024	04:19:45	f9d97e95-1c8d-4fde-9d02-c956bb723a7b	TypeError	Cannot read properties of undefined (reading 'roles')
+2024062024	04:25:02	3d3a207e-4ddd-426e-9546-3b4b18066389	TypeError	Cannot read properties of undefined (reading 'roles')

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "firstName": "John",
+    "lastName": "Doe",
+    "age": 30,
+    "email": "",
+    "address": {
+      "street": "123 Main St",
+      "city": "New York"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Jane Doe",
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "age": 25,
+    "email": "",
+    "address": {
+      "street": "123 Main St",
+      "city": "New York"
+    }
+  }
+]
