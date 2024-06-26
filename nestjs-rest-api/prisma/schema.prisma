@@ -1,0 +1,23 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = "postgresql://exampledb_owner:9szpJxcNAT4K@ep-flat-smoke-a2k1scek-pooler.eu-central-1.aws.neon.tech/exampledb?sslmode=require"
+}
+
+model Employee {
+  id        Int      @id @default(autoincrement())
+  name      String   @unique
+  email     String   @unique
+  role      Role
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+enum Role {
+  ADMIN
+  USER
+  INTERN
+}
